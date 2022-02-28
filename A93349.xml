@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight in the kingdome of Ireland betwixt the Protestant forces under the command of Major Generall Jones, and the Irish forces under command of that arch-rebell Generall Preston. With the number that were slaine on both sides, and the names of the colonels, lieutenant-colonels, majors, captaines, and other officers and souldiers, taken prisoners. Also the manner of Prestons marching towards Dublin, with 9000. foot, and 1600. horse, to besiege the said city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93349</idno>
+            <idno type="STC">Wing S4038</idno>
+            <idno type="STC">Thomason E409_9</idno>
+            <idno type="STC">ESTC R8436</idno>
+            <idno type="EEBO-CITATION">99873310</idno>
+            <idno type="PROQUEST">99873310</idno>
+            <idno type="VID">161189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight in the kingdome of Ireland betwixt the Protestant forces under the command of Major Generall Jones, and the Irish forces under command of that arch-rebell Generall Preston. With the number that were slaine on both sides, and the names of the colonels, lieutenant-colonels, majors, captaines, and other officers and souldiers, taken prisoners. Also the manner of Prestons marching towards Dublin, with 9000. foot, and 1600. horse, to besiege the said city.</title>
+                  <author>Smith, G., 17th cent.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>by B.A.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>Anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of a letter signed "G. Smith" and an appended narrative.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Michael, d. 1649.</term>
+               <term>Tara, Thomas Preston, --  Viscount, 1585-1655.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161189:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT In the Kingdome of IRELAND BETWIXT The Proteſtant Forces under the Command of Major Generall <hi>Jones,</hi> and the Iriſh Forces under Command of that Arch-Rebell Generall <hi>PRESTON.</hi>
+            </p>
+            <p>With the number that w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re ſlaine on both ſides, and the names of the Colonels, Lieutenant-Colonels, Majors, Captaines, and other Of<g ref="char:EOLhyphen"/>ficers and Souldiers, taken priſo<g ref="char:EOLhyphen"/>ners.</p>
+            <p>Alſo the manner of <hi>Preſtons</hi> marching towards <hi>Dublin,</hi> with 9000. Foot, and 1600. Horſe, to beſiege the ſaid City.</p>
+            <p>Printed at <hi>London</hi> by <hi>B. A. Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161189:2" rendition="simple:additions"/>
+            <pb facs="tcp:161189:2" rendition="simple:additions"/>
+            <head>A Famous VICTORY Obtained in IRELAND</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have ſeen the Diui<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all book, entituled, <hi>the Moderate Intelligencer,</hi> with the diſtinct re<g ref="char:EOLhyphen"/>lation of the late happy Victory. But our former intelligencer makes the Rebels army of 7300 Foot, 1047 Horſe, which in all makes 8347, killed of them 5470, taken priſoners 325 Officers and Souldiers, ſo that the num<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:161189:3"/> of the ſlain and taken amounts to 5793. which if you abate of 8347. the remainder will be 2552 how then ſays he, that 500. only eſcaped of the Rebels; it ſeemes that he is no good Arithmetician, for hee hath not yet learned ſubſtraction.</p>
+            <p>Hee ſayes that we have taken Armes of the Rebels for 6000, we have not taken ſo much, for the Armes of the killed and priſoners will make up 5795 onely, and ſo we want 215 of the armes, if we divide not the 4 Pieces of Braſſe amongſt ſo many: and if ſo, the 4 Pieces muſt not be counted by themſelves again.</p>
+            <p>He writes that there was no quarter but for Officers or men of quality: why then the 322. that were ta<g ref="char:EOLhyphen"/>ken priſoners, whereof 228 were common ſouldiers, 22 Sergeants, and 13. Troopers were killed, and ſo the number of the killed ſhould be 5720<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and our priſo<g ref="char:EOLhyphen"/>ners 68. in all.</p>
+            <p>
+               <hi>Prsſton</hi> was conceived to be hurt, and why? becauſe he was ſee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with 3 troopers, a goodly conſeque<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, 3 troopers in his company; <hi>ergo,</hi> he was wounded: in this our Intelligence was miſtake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for he took Major<g ref="char:punc">▪</g> 
+               <hi>Dungan</hi> to be <hi>Preſton,</hi> for it was he that eſcaped, not with 3 troopers, but with 25. &amp; <hi>Preſton</hi> was not there at all.</p>
+            <p>Further, again to the number of the killed and taken according to his account they were 5795. if we exa<g ref="char:EOLhyphen"/>mine the buſineſſe well, the buſineſſe we ſhall finde that in all that party of the Rebels that met our force<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there was not the tenth part of the number of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and priſoners, for they were in all but 4 troops under command of the aforeſaid Major <hi>Dungan,</hi> and 200. Dragoones under command of one Major <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llor,</hi> who was taken priſoners.</p>
+            <pb facs="tcp:161189:3"/>
+            <p>This was that great army that fell upon our Forces conſiſting of 7 troopes, and 800. muſquetiers, under the command of Sir <hi>Thomas Armstrong,</hi> Major <hi>Dillon</hi> and Lieuten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt <hi>Savill,</hi> who were ſent by Colonel <hi>Iones</hi> to make good a paſſage before the Rebels comming, which they performed gallantly; for when the Iriſh 4 troopes and Dragoones came upon them, our ſeven troopes left the Paſſe, and ſaved themſelves, onely 12. and the 4 troope<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chaſed them halfe a mile, and then retired to charge our Foot, who behaved themſelves very well for they reſiſted them in plain field, untill 12 troopes came from our Camp, to re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ieve our muſ<g ref="char:EOLhyphen"/>ketiers, which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Foot per<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ving, got betweene the Iriſh Forces, and their troopes, and le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the troopes on both ſides to diſpute the matter, and in this diſpute all the 4 troopes, and 200 Dragoones were either ta<g ref="char:EOLhyphen"/>ken or killed, ſaving Major <hi>Dungan,</hi> and the 25 above mentioned<g ref="char:punc">▪</g>
+            </p>
+            <p>The Officers of the <hi>Iriſh</hi> taken priſoners, Captaine <hi>Bar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well</hi> of Horſe, and all his Officers, together with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arl of Weſtmeans troop Officers.</p>
+            <p>Thus have you an exact <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> of the late Fight in <hi>Ireland,</hi> for the publiſhing whereof, you will ob<g ref="char:EOLhyphen"/>lige me to re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in</p>
+            <closer>
+               <signed>Your ever Servant. G. SMITH.</signed>
+               <dateline>Dublin <date>10. Septemb.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:161189:4"/>
+            <p>BY Eetters from <hi>Ireland,</hi> it is further inti<g ref="char:EOLhyphen"/>mated, that there hath bin a late diſcove<g ref="char:EOLhyphen"/>ry of a treacherous deſign againſt the Parlia<g ref="char:EOLhyphen"/>ment, Generall. Lieutenant Generall, Com<g ref="char:EOLhyphen"/>miſſary Generall <hi>Ireton,</hi> and the reſt of the Officers and Souldiers, under the power and command of the ſaid Generall, which plot, as it was intimated to both houſes of Par<g ref="char:EOLhyphen"/>lirment, were acting and contriving by ſome diſaffected Scottiſh ſpirits, with a reſolution to combine and conſpire againſt the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> and to work and uſe means for a ſudden Engagement in another unna<g ref="char:EOLhyphen"/>turall and moſt horrid warre, againſt the moſt worthy and renowned Heroes of theſe times; the manner of this moſt great and machavi<g ref="char:EOLhyphen"/>lian Conſpiracy, I ſhall here briefly recite for generall ſatisfaction to all Free-born <hi>Engliſh men,</hi> viz.</p>
+            <p>
+               <hi>Major Generall</hi> Starling, <hi>a Scottiſh-man, Com<g ref="char:EOLhyphen"/>mander in chiefe, under the Lord</hi> Inchiqueet, <hi>of the Proteſtant Forces in</hi> Ireland <hi>in the Province of</hi> Munſter, <hi>having a deſigne againſt the Par<g ref="char:EOLhyphen"/>liament of</hi> England, <hi>for an Engagement, both a<g ref="char:EOLhyphen"/>gainſt them, and their Army, which for the better effecting thereof, diſpatched <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>everall Letters to
+<pb facs="tcp:161189:4"/> divers eminent Commanders in that Kingdome,</hi> (but intercepted) <hi>viz. the firſt to Sir</hi> Patrick Weimes, <hi>a Scotchman, but a moſt faithfull, and heroick ſouldier having an excellent Regiment of Foot, and in actuall ſervice with collonell Jones againſt the Rebels in</hi> Lemſter: <hi>the ſecond to Maior Generall Manroe, Major Generall of the Scottiſh Army in the Province of</hi> Ulſter: <hi>the third to the Kingdome of</hi> Scotland, <hi>with Letters to Generall</hi> Leven, <hi>Generall of the Scottiſh Ar<g ref="char:EOLhyphen"/>my, and others.</hi>
+            </p>
+            <p>
+               <hi>All which Letters were intercepted, and many things (in them) diſcovered of very high nature, and concernment towards this Kingdome, the De<g ref="char:EOLhyphen"/>ſigne being to engage all in a warre againſt the Parliament and Army in</hi> England. <hi>But now it is hoped their Deſignes will be fruſtrated for col.</hi> Jones <hi>hath diſcovered the chiefe Actors therein, and hath taken ſome of them, and committed them to ſafe cuſtody.</hi>
+            </p>
+            <p>
+               <hi>The Parliament having received information of theſe under-hand workings, and trecherou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dea<g ref="char:EOLhyphen"/>lings, Ordered that a Letter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſent to the Lord</hi> I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>chiqueen, <hi>deſiring him to ſend in ſafe cuſtody the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid Colonel</hi> Starling <hi>to the Parliame<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of Eng<g ref="char:EOLhyphen"/>land,</hi>
+            </p>
+            <pb facs="tcp:161189:5"/>
+            <p>The Rebels arch Generall <hi>Preſton</hi> is mar<g ref="char:EOLhyphen"/>ched towards <hi>Dublin</hi> with a great army, con<g ref="char:EOLhyphen"/>ſiſting of nine thouſand Foot, and ſixteene hundred, Horſe, and I fear he will take it, for our forces marched towards <hi>Dredath</hi> about <hi>Trim,</hi> when the Rebels tooke the place, we have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Officers, for in one Sir <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fitz</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> houſe are priſoners 7 Captain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4 Colonels, two Lieutenant Colonels, the La<g ref="char:EOLhyphen"/>dy <hi>Tichburn</hi> was there, but <hi>Preſton</hi> ſent he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> back, and cauſed her baggage to bee given to her, they report Sir <hi>Henry Tich<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a wound which he had, his ſon is priſoner in the aforeſaid houſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
